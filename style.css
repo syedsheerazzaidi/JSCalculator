@@ -1,0 +1,16 @@
+.bttn{
+	width: 10px;
+	height: 10px;
+	border-radius: 0;
+	padding: 10%;
+	font-size: 10px;
+	margin: 10px;
+}
+.flopad
+{
+	float: left;
+	padding: 10px;
+}
+.pad{
+	padding: 10px;
+}
